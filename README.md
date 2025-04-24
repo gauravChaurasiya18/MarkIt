@@ -1,9 +1,9 @@
 # MarkIt
 
 <div align ="center">
-![Backend Code Link ](https://github.com/gauravChaurasiya18/MarkItBackend)
+[Backend Code Link ](https://github.com/gauravChaurasiya18/MarkItBackend)
 
-![Banner Image](./public/MarkdBannerImg.png)
+![Banner Image](./public/background.png)
 
 _A modern platform for knowledge sharing and discovery._
 
