@@ -72,7 +72,7 @@ MarkIt is a content platform that enables users to share their expertise through
 
 ```bash
 # Clone the repository
-git clone https://github.com/gauravChaurasiya18/MarkItFrontend.git
+git clone https://github.com/gauravChaurasiya18/MartIt.git
 
 # Install dependencies
 cd MarkIt
