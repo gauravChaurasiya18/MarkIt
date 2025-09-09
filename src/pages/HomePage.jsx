@@ -62,7 +62,7 @@ const HomePage = () => {
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_40%_60%,rgba(255,255,255,0),rgba(0,0,0,0.02))]" />
         <div className="max-w-6xl mx-auto relative z-10">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-20">
-            Why Choose <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-pink-500">Markd</span>?
+            Why Choose <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-pink-500">MarkIt</span>?
           </h2>
           <div className="grid md:grid-cols-3 gap-12">
             {features.map((feature, index) => (
